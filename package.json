@@ -1,0 +1,31 @@
+{
+  "name": "status-nodecheck",
+  "version": "0.0.1",
+  "description": "HTTP Status Checker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barry-smithjr/status-nodeCheck.git"
+  },
+  "keywords": [
+    "http",
+    "status",
+    "check",
+    "uptime"
+  ],
+  "author": "Barry Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barry-smithjr/status-nodeCheck/issues"
+  },
+  "homepage": "https://github.com/barry-smithjr/status-nodeCheck#readme",
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "esprima": "^4.0.1",
+    "js-yaml": "^3.13.1",
+    "sprintf-js": "^1.1.2"
+  }
+}
